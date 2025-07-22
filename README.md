@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahmoud-sdr
 - 👀 I’m interested in C - C++ - Python
 - 🌱 I’m always learn programming
-- 💞️ I’m competetive and Embedded Systems programmer
+- 💞️ I’m Competitive and Embedded Systems programmer
 - 📫 How to reach me:
 -      mahmoodsadriyan@gmail.com
 -      https://www.linkedin.com/in/mahmood-sadriyan
