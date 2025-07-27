@@ -3,8 +3,8 @@
 - 🌱 I’m always learn programming
 - 💞️ I’m Competitive and Embedded Systems programmer
 - 📫 How to reach me:
--      mahmoodsadriyan@gmail.com
--      https://www.linkedin.com/in/mahmood-sadriyan
+-    mahmoodsadriyan@gmail.com
+-    https://www.linkedin.com/in/mahmood-sadriyan
 
 
 <!---
