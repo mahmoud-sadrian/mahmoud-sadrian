@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahmoud-sadrian
+- 👋 Hi, I’m Mahmoud Sadrian
 - 👀 I’m interested in C - C++ - Python
 - 🌱 I’m always learn programming
 - 💞️ I’m Competitive and Embedded Systems programmer
